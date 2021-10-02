@@ -1,5 +1,5 @@
 # Steps followed
-1.import the required libraries
+1.Import the required libraries
 
 2.Read the csv file
 
